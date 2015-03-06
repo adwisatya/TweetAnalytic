@@ -1,0 +1,5 @@
+#lalinbdg
+macet,stuck,berhenti
+tutup
+nabrak,tabrakan,terguling
+BM
